@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lime">#00B090</color>
+    <color name="change_language_button_color">#B8B2B2</color>
+    <color name="background_color">#101820</color>
+    <color name="ran">#1B1F27</color>
+    <color name="start">#CADCFC</color>
+    <color name="background">#0A0A0A</color>
+    <color name="button_level_background">#FEE715</color>
+    <color name="tick">#0A0A0A</color>
+
+    <color name="red">#9C0500</color>
+    <color name="green">#168F00</color>
+    <color name="middle">#87801a</color>
+    <color name="dark_white">#D3D3D3</color>
+
+
+
+</resources>

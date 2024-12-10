@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_next">Indiki</string>
+    <string name="button_try_again">Täzeden synanş</string>
+    <string name="level_1">Dereje 1</string>
+    <string name="text_choose_max_number">Iň köp belgini saýlaň</string>
+    <string name="text_start">Başla</string>
+    <string name="level_2">Dereje 2</string>
+    <string name="level_3">Dereje 3</string>
+    <string name="choose_your_level">Öz derejäňizi saýlaň</string>
+    <string name="language_englis">Туркменский</string>
+    <string name="text_no">Yok</string>
+    <string name="question_do_yo_want_to_exit">Çykmak isleýärsiňizmi?</string>
+    <string name="text_yes">Hawa</string>
+    <string name="text_choose_correct_answer">Dogry jogaby saýlaň</string>
+    <string name="text_back">Yzyna</string>
+    <string name="back_text">Yzyna</string>
+    <string name="change_language">Tk</string>
+    <string name="correct_answer">Dogry: %1$d</string>
+    <string name="wrong_answer">Nädogry: %1$d</string>
+    <string name="text_cancel">Yap</string>
+    <string name="text_users">Ulanyjylar</string>
+    <string name="status">Agdaý</string>
+    <string name="gender">Jyns</string>
+    <string name="email">E-poçta iberiň</string>
+    <string name="name">Ady</string>
+    <string name="first_name">Ady</string>
+    <string name="last_name">Familiýa</string>
+    <string name="text_email">E-poçta iberiň</string>
+    <string name="users">Ulanyjylar</string>
+    <string name="users_info">Ulanyjylar</string>
+</resources>

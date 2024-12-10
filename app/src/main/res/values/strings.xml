@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name" translatable="false">Game</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="button_1" translatable="false">1</string>
+    <string name="number_2" translatable="false">2</string>
+    <string name="number_3" translatable="false">3</string>
+    <string name="number_4" translatable="false">4</string>
+    <string name="number_5" translatable="false">5</string>
+    <string name="number_6" translatable="false">6</string>
+    <string name="number_7" translatable="false">7</string>
+    <string name="number_8" translatable="false">8</string>
+    <string name="number_9" translatable="false">9</string>
+    <string name="number_10" translatable="false">10</string>
+    <string name="number_11" translatable="false">11</string>
+    <string name="number_12" translatable="false">12</string>
+    <string name="number_13" translatable="false">13</string>
+    <string name="number_14" translatable="false">14</string>
+    <string name="random_button_0" translatable="false">0</string>
+    <string name="random2_button_0" translatable="false">0</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="text_correct" translatable="false">Correct =</string>
+    <string name="just_text" translatable="false">TODO</string>
+    <string name="button_wrong" translatable="false">Wrong =</string>
+    <string name="language_english" translatable="false">English</string>
+    <string name="language_russian" translatable="false">Russian</string>
+    <string name="language_turkmen" translatable="false">Turkmen</string>
+
+    <string name="text_next">Next</string>
+    <string name="button_try_again">Try Again</string>
+    <string name="text_choose_max_number">Choose max number</string>
+    <string name="text_start">Start</string>
+    <string name="level_1">Level 1</string>
+    <string name="level_2">Level 2</string>
+    <string name="level_3">Level 3</string>
+    <string name="choose_your_level">Choose your level</string>
+    <string name="language_englis">English</string>
+    <string name="text_no">No</string>
+    <string name="question_do_yo_want_to_exit">Do yo want to exit?</string>
+    <string name="text_yes">Yes</string>
+    <string name="text_choose_correct_answer">Choose correct answer</string>
+    <string name="text_back">Back</string>
+    <string name="text_todo" translatable="false">TODO</string>
+    <string name="back_text">Back</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="change_language">En</string>
+    <string name="wrong_answer">Wrong Answers: %1$d</string>
+    <string name="correct_answer">Correct Answers: %1$d</string>
+    <string name="text_users">Users</string>
+    <string name="status">Status</string>
+    <string name="gender">Gender</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="text_email">email</string>
+    <string name="change_image" translatable="false">change_image</string>
+    <string name="users">Users</string>
+    <string name="users_info">Users Info</string>
+</resources>

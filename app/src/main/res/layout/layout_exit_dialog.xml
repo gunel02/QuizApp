@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="370dp"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="16dp"
+    app:cardBackgroundColor="@color/background_color"
+    app:strokeColor="@color/black">
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/close_button"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="end"
+            android:layout_margin="5dp"
+            android:contentDescription="@string/todo"
+            android:src="@drawable/sign"
+            app:tint="@color/button_level_background" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="35dp"
+                android:layout_marginBottom="30dp"
+                android:gravity="center"
+                android:text="@string/question_do_yo_want_to_exit"
+                android:textColor="@color/white"
+                android:textSize="30sp" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="20dp"
+                    app:cardBackgroundColor="@color/button_level_background"
+                    app:cardCornerRadius="15dp"
+                    app:strokeColor="@color/black"
+                    app:strokeWidth="1dp">
+
+                    <TextView
+                        android:id="@+id/yes_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:paddingHorizontal="20dp"
+                        android:paddingVertical="2dp"
+                        android:text="@string/text_yes"
+                        android:textColor="@color/black"
+                        android:textSize="40sp" />
+                </com.google.android.material.card.MaterialCardView>
+
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:cardBackgroundColor="@color/button_level_background"
+                    app:cardCornerRadius="15dp"
+                    app:strokeColor="@color/black"
+                    app:strokeWidth="1dp">
+
+                    <TextView
+                        android:id="@+id/no_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:paddingHorizontal="30dp"
+                        android:paddingVertical="2dp"
+                        android:text="@string/text_no"
+                        android:textColor="@color/black"
+                        android:textSize="40sp" />
+                </com.google.android.material.card.MaterialCardView>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+</com.google.android.material.card.MaterialCardView>
+

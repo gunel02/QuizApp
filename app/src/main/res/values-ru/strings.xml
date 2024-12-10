@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_next">Следующий</string>
+    <string name="button_try_again">Попробуйте еще раз</string>
+    <string name="text_choose_max_number">Выберите максимальное количество</string>
+    <string name="text_start">Начинать</string>
+    <string name="level_1">Уровен 1</string>
+    <string name="level_2">Уровен 2</string>
+    <string name="level_3">Уровен 3</string>
+    <string name="choose_your_level">Выберите свой уровень</string>
+    <string name="language_englis">Русский</string>
+    <string name="text_no">Нет</string>
+    <string name="text_yes">Да</string>
+    <string name="question_do_yo_want_to_exit">Вы хотите выйти?</string>
+    <string name="text_choose_correct_answer">Выберите правильный ответ</string>
+    <string name="text_back">Назад</string>
+    <string name="back_text">Назад</string>
+    <string name="change_language">Ру</string>
+    <string name="correct_answer">Правильные: %1$d</string>
+    <string name="wrong_answer">Неправильные: %1$d</string>
+    <string name="text_cancel">Отмена</string>
+    <string name="text_users">Пользователи</string>
+    <string name="status">Положение дел</string>
+    <string name="gender">Пол</string>
+    <string name="email">Электронная почта</string>
+    <string name="name">Имя</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="text_email">Электронная почта</string>
+    <string name="users">Использователи</string>
+    <string name="users_info">Использователи</string>
+</resources>
